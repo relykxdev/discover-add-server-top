@@ -25,6 +25,19 @@ This plugin requires you to have Better Discord installed: [https://betterdiscor
 
 Once enabled, the Discover and Add Server buttons will automatically appear above the server list divider.
 
+## Optional
+
+## Optional: Swap Button Order
+
+By default, the plugin moves the **Add Server** button above the divider, followed by the **Discover** button.
+
+If you want the order reversed (**Discover first, then Add Server**), open the plugin file and replace this part:
+
+```js
+divider.insertAdjacentElement('beforebegin', addServerButton);
+divider.insertAdjacentElement('beforebegin', discoverButton);
+```
+
 ## Contributing
 
 Feel free to fork this repository and submit pull requests for improvements or fixes.
