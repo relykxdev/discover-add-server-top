@@ -4,8 +4,7 @@
 
 ## Features
 
-- Moves the **Discover** button to the top of the server list.
-- Moves the **Add Server** button above the server list divider.
+- Moves the **Add Server** and **Discover** button above the server list divider.
 - Enhances navigation by placing these frequently used buttons in a more visible location.
 
 ## Preview
@@ -18,7 +17,7 @@ This plugin requires you to have Better Discord installed: [https://betterdiscor
 
 ## Installation
 
-1. Download the [`DiscoverAddServerTop.plugin.js`](DiscoverAddServerTop.plugin.js) file.
+1. Download the [DiscoverAddServerTop.plugin.js](DiscoverAddServerTop.plugin.js) file.
 2. Place it in your Discord plugin folder (e.g., for BetterDiscord or other plugin managers).
 3. Enable the plugin from your plugin manager.
 
