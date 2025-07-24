@@ -32,15 +32,15 @@ By default, the plugin moves the **Add Server** button above the divider, follow
 If you want the order reversed (**Discover first, then Add Server**), open the plugin file and replace this part:
 
 ```js
-divider.insertAdjacentElement('beforebegin', addServerButton);
-divider.insertAdjacentElement('beforebegin', discoverButton);
+divider.parentNode.insertBefore(addBtn, divider);
+divider.parentNode.insertBefore(discoverBtn, divider);
 ```
 
 with:
 
 ```js
-divider.insertAdjacentElement('beforebegin', discoverButton);
-divider.insertAdjacentElement('beforebegin', addServerButton);
+divider.parentNode.insertBefore(discoverBtn, divider);
+        divider.parentNode.insertBefore(addBtn, divider);
 ```
 
 Essentially just swapping them arround...
