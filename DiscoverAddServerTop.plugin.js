@@ -3,6 +3,10 @@
  * @author Relykx
  * @description Moves Discover and Add Server buttons above the server list divider
  * @version 1.0.0
+ *
+ * @website https://github.com/relykxdev/discover-add-server-top
+ * @source https://github.com/relykxdev/discover-add-server-top/blob/main/DiscoverAddServerTop.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/relykxdev/discover-add-server-top/refs/heads/main/DiscoverAddServerTop.plugin.js
  */
 
 class DiscoverAddServerTop {
