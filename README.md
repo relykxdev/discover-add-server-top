@@ -1,4 +1,4 @@
-# DiscoverAddServerTop
+# Discover Add Server To Top
 
 **DiscoverAddServerTop** is a plugin that moves the "Discover" and "Add Server" buttons above the server list divider in Discord, improving accessibility and workflow.
 
