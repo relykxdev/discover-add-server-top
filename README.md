@@ -29,3 +29,7 @@ Feel free to fork this repository and submit pull requests for improvements or f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Download
+
+<a href="https://github.com/yourusername/yourrepo/raw/main/DiscoverAddServerTop.plugin.js" download style="padding: 8px 16px; background-color: #28a745; color: white; text-decoration: none; border-radius: 4px;">Download Plugin</a>
