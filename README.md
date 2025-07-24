@@ -10,7 +10,7 @@
 
 ## Installation
 
-1. Download the `DiscoverAddServerTop.plugin.js` file.
+1. Download the [`DiscoverAddServerTop.plugin.js`](DiscoverAddServerTop.plugin.js) file.
 2. Place it in your Discord plugin folder (e.g., for BetterDiscord, Powercord, or other plugin managers).
 3. Enable the plugin from your plugin manager.
 
