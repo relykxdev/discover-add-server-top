@@ -38,6 +38,15 @@ divider.insertAdjacentElement('beforebegin', addServerButton);
 divider.insertAdjacentElement('beforebegin', discoverButton);
 ```
 
+with:
+
+```js
+divider.insertAdjacentElement('beforebegin', discoverButton);
+divider.insertAdjacentElement('beforebegin', addServerButton);
+```
+
+Essentially just swapping them arround...
+
 ## Contributing
 
 Feel free to fork this repository and submit pull requests for improvements or fixes.
