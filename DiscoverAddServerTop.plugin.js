@@ -5,7 +5,7 @@
  * @version 1.0.0
  */
 
-class MoveAddServerAboveDivider {
+class DiscoverAddServerTop {
   start() {
     try {
       const addBtn = document.querySelector('[data-list-item-id="guildsnav___create-join-button"]')?.closest(".listItem__650eb");
@@ -29,4 +29,4 @@ class MoveAddServerAboveDivider {
   }
 }
 
-module.exports = MoveAddServerAboveDivider;
+module.exports = DiscoverAddServerTop;
