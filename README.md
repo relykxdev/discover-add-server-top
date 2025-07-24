@@ -32,4 +32,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Download
 
-<a href="https://github.com/yourusername/yourrepo/raw/main/DiscoverAddServerTop.plugin.js" download style="padding: 8px 16px; background-color: #28a745; color: white; text-decoration: none; border-radius: 4px;">Download Plugin</a>
+[Download DiscoverAddServerTop.plugin.js](https://github.com/yourusername/yourrepo/raw/main/DiscoverAddServerTop.plugin.js)
+
