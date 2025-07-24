@@ -40,7 +40,7 @@ with:
 
 ```js
 divider.parentNode.insertBefore(discoverBtn, divider);
-        divider.parentNode.insertBefore(addBtn, divider);
+divider.parentNode.insertBefore(addBtn, divider);
 ```
 
 Essentially just swapping them arround...
