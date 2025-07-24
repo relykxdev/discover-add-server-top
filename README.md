@@ -8,6 +8,9 @@
 - Moves the **Add Server** button above the server list divider.
 - Enhances navigation by placing these frequently used buttons in a more visible location.
 
+## Requirements
+This plugin requires you to have Better Discord installed: [https://betterdiscord.app/](https://betterdiscord.app/)
+
 ## Installation
 
 1. Download the [`DiscoverAddServerTop.plugin.js`](DiscoverAddServerTop.plugin.js) file.
