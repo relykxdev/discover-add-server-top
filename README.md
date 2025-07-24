@@ -30,7 +30,9 @@ Feel free to fork this repository and submit pull requests for improvements or f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Download
+## Downloads
 
 [Download DiscoverAddServerTop.plugin.js](https://github.com/relykxdev/discover-add-server-top/releases/download/v1.0.0/DiscoverAddServerTop.plugin.js)
+[Download Source code (zip)](https://github.com/relykxdev/discover-add-server-top/archive/refs/tags/v1.0.0.zip)
+[Donload Source code (tar.gz)](https://github.com/relykxdev/discover-add-server-top/archive/refs/tags/v1.0.0.tar.gz)
 
